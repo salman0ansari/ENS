@@ -300,7 +300,7 @@ Awesome, You did it ❤️
 
 ````
 
-- Now in your terminal which is pointing to my-app folder, execute
+Now in your terminal which is pointing to my-app folder, execute
   ```bash
   npm run dev
 ````
